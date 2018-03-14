@@ -1,4 +1,4 @@
 ganga
 =====
 
-Ganga is attempt for using webRTC for developing communication application.
+Ganga is attempt for using card utilization tool.
